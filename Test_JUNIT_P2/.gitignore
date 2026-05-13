@@ -1,0 +1,37 @@
+# BackEnd
+BackEnd/target/
+BackEnd/HELP.md
+BackEnd/.mvn/wrapper/maven-wrapper.jar
+!BackEnd/**/src/main/**/target/
+!BackEnd/**/src/test/**/target/
+
+# FrontEnd
+FrontEnd/node_modules/
+FrontEnd/dist/
+FrontEnd/dist-ssr/
+FrontEnd/*.local
+FrontEnd/.env
+FrontEnd/.env.*
+FrontEnd/coverage/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.factorypath
+.apt_generated
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
